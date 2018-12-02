@@ -1,5 +1,5 @@
 token= NTE4MDk2ODA2MDY5MDEwNDQz.DuNMgw.xKwlXMJDtaD_aJlWfUBhCUrU6IM
 owner= 366336969665675274 
-prefix= -
-game= -help
+prefix= 1
+game= 1help
 songinstatus=false
